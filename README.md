@@ -8,5 +8,5 @@
 6. Finna vandamálið, hugsa um lausn, prófa hugmyndina, finna út hvað á að gera næst, leysa vandamálið, prufa, skr hugmyndina, finna út hvað á að gera næst, leysa vandamálið, prufa, skrá
 7. opnar spurningar hafa mörg svör en lokaðar spurningar hafa bara eitt svar.
 8. Jaðartæki er aðallega ytri búnaður eins og skjár, lyklaborð, o.fl.
-9. Lyklaborð, mýs og skannar
-10. Allt er á att.is: MSI X99A Gaming 55.000, Inter core i7 770 57.000, corsair VEN 2x8GB 2400 15.000, seagate st1000DX001 1TB 12.000, MSI GTX1070 77.000, samsung 850 EVO 260GB SSD 17.000, Corsair cx600 14.000.
+9. Lyklaborð, mýs og skannai
+10. Allt er á att.is: MSI X99A Gaming 55.000kr, Inter core i7 770 57.000kr, corsair VEN 2x8GB 2400 15.000kr, seagate st1000DX001 1TB 12.000kr, MSI GTX1070 77.000kr, samsung 850 EVO 260GB SSD 17.000kr, Corsair cx600 14.000kr.
