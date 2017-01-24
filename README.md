@@ -7,3 +7,4 @@
 5. Hvort maður hefur grundað hugbúnaðin.
 6. Finna vandamálið, hugsa um lausn, prófa hugmyndina, finna út hvað á að gera næst, leysa vandamálið, prufa, skr hugmyndina, finna út hvað á að gera næst, leysa vandamálið, prufa, skrá
 7. opnar spurningar hafa mörg svör en lokaðar spurningar hafa bara eitt svar.
+8. Jaðartæki er aðallega ytri búnaður eins og skjár, lyklaborð, o.fl.
