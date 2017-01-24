@@ -6,3 +6,4 @@
 4. ESD er þegar straumur kemur frá okkur og það getur skemmt tölvu búnað. Maður getur snert járn þá fer straumurinn og er öruggt að snerta hugbúnað.
 5. Hvort maður hefur grundað hugbúnaðin.
 6. Finna vandamálið, hugsa um lausn, prófa hugmyndina, finna út hvað á að gera næst, leysa vandamálið, prufa, skr hugmyndina, finna út hvað á að gera næst, leysa vandamálið, prufa, skrá
+7. opnar spurningar hafa mörg svör en lokaðar spurningar hafa bara eitt svar.
